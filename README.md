@@ -1,7 +1,11 @@
-# Game-optimization Graph Tensor-driven Multi-instance Clustering for Pathological Whole-slide Image Explainable Representation
+# Graph-tensor Game Optimization driven-Instance Dense-subgraph Disentangled Clustering for WSIs Explainable Representation
+
+## 🧔: Authors [*Corresponding author]
+Pan Huang, _Member, IEEE_, Xin Luo, _Fellow, IEEE_, and Jing Qin, _Senior Member, IEEE_
+
 ## :fire: News
 
-- [2025/04/25] Our manuscript was currently Under Review  _IEEE Journal of Biomedical and Health Informatics_.
+- [2025/12/15] Our manuscript was submitted to _IEEE Transactions on Medical Imaging_.
 
 
 
